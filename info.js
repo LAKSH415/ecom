@@ -14,5 +14,6 @@ let button=document.querySelector(".back");
 function handleClick(){
     window.location.href ='index.html';
 }
+//checking
 button.addEventListener('click', handleClick);
 
